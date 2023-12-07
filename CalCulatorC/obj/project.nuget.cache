@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7wtQsBV+xmte1zFB0+B4E9NUjQV2GnXeEF8czJCxzB3eFWqZij4OQm4rmFVdKWiyBQuLtFJJ5Uwplyy3Ys6L5Q==",
+  "success": true,
+  "projectFilePath": "/Users/shkhrustamov/RiderProjects/CalCulatorC/CalCulatorC/CalCulatorC.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/shkhrustamov/.local/share/NuGet' is denied."
+    }
+  ]
+}
